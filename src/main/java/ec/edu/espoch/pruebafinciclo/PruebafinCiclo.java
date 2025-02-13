@@ -4,6 +4,8 @@
 
 package ec.edu.espoch.pruebafinciclo;
 
+import ec.edu.espoch.pruebafinciclo.vista.Vista;
+
 /**
  *
  * @author USER
@@ -11,6 +13,8 @@ package ec.edu.espoch.pruebafinciclo;
 public class PruebafinCiclo {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        
+         Vista Vista = new Vista();
+        Vista.setVisible(true);
     }
 }
