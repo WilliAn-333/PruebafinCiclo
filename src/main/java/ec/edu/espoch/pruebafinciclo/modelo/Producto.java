@@ -36,6 +36,10 @@ public class Producto {
     public boolean isDisponible() {
         return Disponible;
     }
+
+    public void setDisponible(boolean Disponible) {
+        this.Disponible = Disponible;
+    }
     
     
     
