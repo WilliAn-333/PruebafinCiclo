@@ -10,4 +10,5 @@ package ec.edu.espoch.pruebafinciclo.modelo;
  */
 public class GestorProducto {
     
+    
 }
